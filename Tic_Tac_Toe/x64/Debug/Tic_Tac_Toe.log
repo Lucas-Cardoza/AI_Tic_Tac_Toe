@@ -1,0 +1,4 @@
+﻿  Tic_Tac_Toe.cpp
+C:\Users\whook\Google Drive\School Stuff\Spring Semester 2021\CSC 540\Assingment_2\Tic_Tac_Toe\Tic_Tac_Toe.cpp(265,17): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\whook\Google Drive\School Stuff\Spring Semester 2021\CSC 540\Assingment_2\Tic_Tac_Toe\Tic_Tac_Toe.cpp(207): warning C4715: 'minimax': not all control paths return a value
+  Tic_Tac_Toe.vcxproj -> C:\Users\whook\Google Drive\School Stuff\Spring Semester 2021\CSC 540\Assingment_2\Tic_Tac_Toe\x64\Debug\Tic_Tac_Toe.exe
